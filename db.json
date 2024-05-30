@@ -1,0 +1,32 @@
+{
+  "jobsData": [
+    {
+      "id": 1,
+      "title": "FullStack Engineer",
+      "type": "Full-Time",
+      "description": "React, NextJS, Tailwind, NodeJS, Flask, JS, Python",
+      "url": "https://tally.so/r/3qRQeG"
+    },
+    {
+      "id": 2,
+      "title": "ML/AI Engineer",
+      "type": "Internship",
+      "description": "Machine Learning, NLP, LLMs, Algorithms, Python",
+      "url": "https://tally.so/r/3190gQ"
+    },
+    {
+      "id": 3,
+      "title": "FullStack Engineer",
+      "type": "Internship",
+      "description": "React, NextJS, Tailwind, NodeJS, Flask, JS, Python",
+      "url": "https://tally.so/r/mO7qe7"
+    },
+    {
+      "id": 4,
+      "title": "Social Media Specialist",
+      "type": "Part-Time",
+      "description": "Content Creation, Brand Media Startegy, Business Development",
+      "url": "https://tally.so/r/mVz7XJ"
+    }
+  ]
+}
