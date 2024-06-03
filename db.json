@@ -10,22 +10,62 @@
     },
     {
       "id": 2,
-      "title": "ML/AI Engineer",
-      "type": "Internship",
-      "description": "Machine Learning, NLP, LLMs, Algorithms, Python",
-      "url": "https://tally.so/r/3190gQ",      
+      "title": "FullStack Senior Developer",
+      "type": "Full-Time",
+      "description": "Systems and Design, NextJS, Tailwind, NodeJS, Flask, JS, Python",
+      "url": "https://tally.so/r/3qRQeG",
       "isSoftware": true
     },
     {
       "id": 3,
-      "title": "FullStack Engineer",
+      "title": "Android Developer",
+      "type": "Full-Time",
+      "description": "Android Studio, Flutter, Dart, OOP",
+      "url": "https://tally.so/r/3qRQeG",
+      "isSoftware": true
+    },
+    {
+      "id": 4,
+      "title": "AI Research Engineer - LLMs",
+      "type": "Full-Time",
+      "description": "Machine Learning, NLP, LLMs, Algorithms, Python",
+      "url": "https://tally.so/r/3qRQeG",
+      "isSoftware": true
+    },
+    {
+      "id": 5,
+      "title": "ML/AI Ops Engineer",
+      "type": "Full-Time",
+      "description": "Python, Spark, Hadoop, Machine Learning, NLP, LLMs, Algorithms",
+      "url": "https://tally.so/r/3qRQeG",
+      "isSoftware": true
+    },
+    {
+      "id": 6,
+      "title": "FullStack Engineer Intern",
       "type": "Internship",
       "description": "React, NextJS, Tailwind, NodeJS, Flask, JS, Python",
       "url": "https://tally.so/r/mO7qe7",
       "isSoftware": true
     },
     {
-      "id": 4,
+      "id": 7,
+      "title": "ML/AI Engineer Intern",
+      "type": "Internship",
+      "description": "Machine Learning, NLP, LLMs, Algorithms, Python",
+      "url": "https://tally.so/r/3190gQ",
+      "isSoftware": true
+    },
+    {
+      "id": 8,
+      "title": "Graphic Designer Intern",
+      "type": "Internship",
+      "description": "Adobe Suite, Canva, Figma, Content Creation",
+      "url": "https://tally.so/r/mVz7XJ",
+      "isSoftware": false
+    },
+    {
+      "id": 9,
       "title": "Social Media Specialist",
       "type": "Part-Time",
       "description": "Content Creation, Brand Media Startegy, Business Development",
